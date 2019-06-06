@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 
-zip -r MacQuestSideLoader.zip platform-tools/ READ_ME.txt sideload-app.sh
+zip -r PavlovMacQuestSideLoader.zip mac-platform-tools/ MAC_READ_ME.txt install-mac.sh
